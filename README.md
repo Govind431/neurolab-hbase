@@ -5,6 +5,10 @@
 ## Open HBase terminal and execute the codes below
 
 ### General Shell Commands
+ - To enable HBase shell
+```
+habse shell
+```
  - Check HBase status
  ```
  status
