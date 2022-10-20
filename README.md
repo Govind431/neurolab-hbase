@@ -7,7 +7,7 @@
 ### General Shell Commands
  - To enable HBase shell
 ```
-habse shell
+hbase shell
 ```
  - Check HBase status
  ```
